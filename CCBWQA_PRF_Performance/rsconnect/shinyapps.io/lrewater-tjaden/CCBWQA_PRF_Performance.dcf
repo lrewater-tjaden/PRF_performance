@@ -1,0 +1,13 @@
+name: CCBWQA_PRF_Performance
+title: CCBWQA_PRF_Performance
+username:
+account: lrewater-tjaden
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1089039
+bundleId: 2323138
+url: https://lrewater-tjaden.shinyapps.io/CCBWQA_PRF_Performance/
+when: 1565892009.20247
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/CottonwoodCreekSubWateshed.jpg|www/perimeter_hist2.png
